@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/Monet-BC/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
