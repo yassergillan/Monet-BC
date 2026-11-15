@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Monitoring Renovasi BC KBP",
+  "description": "Sistem monitoring renovasi & inspeksi Kota Baru Parahyangan yang mobile-friendly",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
